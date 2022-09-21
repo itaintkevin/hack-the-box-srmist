@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Lato,'Open Sans';
+}
+.NavBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A4B1CD;
+    background-color: #111927;
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    padding: 0 200px;
+}
+.Home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    color: #A4B1CD;
+    background-color: #141D2B;
+}
+.Team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    height: 80vh;
+    color: #A4B1CD;
+    background-color: #1A2332;
+}
+.Events{
+    color: #A4B1CD;
+    background-color: #141D2B;
+    width: 100%;
+    height: 100vh;
+}
+.Contact{
+    color: #A4B1CD;
+    background-color: #1A2332;
+    width: 100%;
+    height: 100vh;
+}

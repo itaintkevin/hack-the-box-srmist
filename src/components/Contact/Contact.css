@@ -1,0 +1,70 @@
+.Contact {
+    background-image: url(/home/kev/Documents/Coding/Live-Projects/hack-the-box/src/components/Contact/background.svg);
+    display: flex;
+}
+.ContactUs-Left-Container {
+    width: 55%;
+}
+.ContactUs-Left-Container img{
+    width: 1000px;
+    height: 1000px;
+}
+.ContactUs-Right-Container {
+    width: 45%;
+}
+.ContactUs-Title {
+    font-size: 80px;
+    margin: 60px auto;
+}
+.ContactUs-Description {
+    font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+.ContactUs-Name input {
+    width: 50%;
+    height: 55px;
+    padding: 50px auto;
+    background-color: #A4B1CD;
+    color: #141D2B;
+    margin: 15px auto;
+    font-size: 20px;
+}
+.ContactUs-Form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.ContactUs-Email input {
+    width: 50%;
+    height: 55px;
+    padding: 50px auto;
+    background-color: #A4B1CD;
+    color: #141D2B;
+    margin: 15px auto;
+    font-size: 20px;
+}.ContactUs-Number input {
+    width: 50%;
+    height: 55px;
+    padding: 50px auto;
+    background-color: #A4B1CD;
+    color: #141D2B;
+    margin: 15px auto;
+    font-size: 20px;
+}.ContactUs-Message input {
+    width: 50%;
+    height: 150px;
+    padding: 50px auto;
+    background-color: #A4B1CD;
+    color: #141D2B;
+    margin: 15px auto;
+    font-size: 20px;
+}.ContactUs-Send button{
+    background-color: #9FEF00;
+    color: #141D2B;
+    width: 50%;
+    height: 55px;
+    padding: 50px auto;
+    border-radius: 5px;
+    font-size: 20px;
+}

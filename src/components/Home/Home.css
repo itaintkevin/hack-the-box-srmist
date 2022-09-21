@@ -1,0 +1,105 @@
+.Home {
+    background-image: url(/home/kev/Documents/Coding/Live-Projects/hack-the-box/src/components/Home/background.svg);
+}
+.Home-Container-Left {
+    width:40%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Home-Container-Left img {
+    width: 800px;
+    height: 800px;
+}
+.Home-Container-Right {
+    width:60%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Home-Title {
+    font-size: 80px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Home-Title:hover {
+    color:#9FEF00;
+    transition: 0.3s ease-in;
+    /* animation-duration: 5s;
+    animation-name: ease-in; */
+}
+.Home-Details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+.Home-Details-Para-1 {
+    font-size: 27px;
+    color: #fff;
+    margin: 20px 0px;
+}
+.Home-Details-Para-2 {
+    font-size: 25px;
+    margin: 20px auto;
+    padding: 0px 70px;
+    text-align: center;
+}
+.Home-Details-Para-3 {
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 0px 70px;
+    text-align: center;
+    font-style: italic;
+}
+.MeetUp-Form {
+    font-size: 15px;
+    font-style: normal;
+    text-decoration: none;
+    background-color: #9FEF00;
+    color: #141D2B;
+    margin: 20px 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    line-height: 25px;
+}
+.MeetUp-Form:hover{
+    background-color:#fff;
+    transition: 0.3s ease-in;
+}
+.MeetUp-Form img{
+    width:30px;
+    height:30px;
+    margin: auto;
+    vertical-align: middle; 
+    display: inline-block;
+}
+.Discord-Server {
+    font-size: 15px;
+    font-style: normal;
+    text-decoration: none;
+    background-color: #9FEF00;
+    color: #141D2B;
+    margin: 20px 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    line-height: 25px;
+}
+.Discord-Server:hover{
+    background-color:#fff;
+    transition: 0.3s ease-in;
+}
+.Discord-Server img{
+    width:30px;
+    height:30px;
+    padding: 5px auto; 
+    margin: auto;
+    vertical-align: middle; 
+    display: inline-block;
+}

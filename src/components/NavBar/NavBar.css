@@ -1,0 +1,31 @@
+.NavBar {
+    background-image: url(/home/kev/Documents/Coding/Live-Projects/hack-the-box/src/components/NavBar/background.svg);
+    position: fixed;
+}
+.NavTitle {
+    width:65%;
+    margin: 0px 10px 0 10px;
+    color: #fff;
+    font-size: 20px;
+}
+.NavHome {
+    margin: 0px 10px 0 10px;
+}
+.NavTeam {
+    margin: 0px 10px 0 10px;
+}
+.NavEvents {
+    margin: 0px 10px 0 10px;
+}
+.NavContact {
+    margin: 0px 10px 0 10px;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+}
+
+.srmist {
+    color:#A4B1CD;
+}

@@ -1,0 +1,119 @@
+.Team {
+    background-image: url(/home/kev/Documents/Coding/Live-Projects/hack-the-box/src/components/Team/images/background.svg);
+}
+
+.Team-Title {
+    font-size: 80px;
+    color: #fff;
+    margin: 50px 0px 20px 0px;
+}
+
+.Team-Title:hover {
+    color: #9FEF00;
+    transition: 0.3s ease-in;
+}
+
+.Team-SubTitle {
+    font-size: 27px;
+    color: #fff;
+    margin: 0px auto;
+}
+
+.Team-Grid {
+    width: 100%;
+    margin: 50px auto;
+    padding: 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.Members {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    width: 85%;
+}
+
+.Member {
+    min-width: 382px;
+    height: 450px;
+    margin: 0px 30px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    text-overflow: center;
+    background-color: rgb(20, 29, 43);
+    border-radius: 3%;
+    border: 5px solid #141D2B;
+}
+
+.Member:hover {
+    background-color: rgb(20, 29, 43, 0.3);
+    transition: 0.3s ease-in;
+}
+
+.profile {
+    width: 180px;
+    height: 180px;
+    margin: 40px 0px 10px 0px;
+    border-radius: 3%;
+}
+
+.member-name {
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.socials {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.socials-icon {
+    margin: 0px 10px;
+    background-color: #9FEF00;
+    border-radius: 15%;
+}
+.socials-icon:hover {
+    background-color: white;
+    transition: 0.3s ease-in;
+}
+
+.member-tagline {
+    width: 340px;
+}
+.prev-btn {
+    width: 50px;
+    height: 50%;
+    position: absolute;
+    left: 1%;
+    background-color:#1A2332;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+.prev-btn>p:hover {
+    background-color: #9FEF00;
+    color: #141D2B;
+    border-radius: 10%;
+    transition: 0.3s ease-in;
+}
+.next-btn {
+    width: 50px;
+    height: 50%;
+    position: absolute;
+    right: 1%;
+    background-color:#1A2332;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+.next-btn>p:hover {
+    background-color: #9FEF00;
+    color: #141D2B;
+    border-radius: 10%;
+    transition: 0.3s ease-in;
+}

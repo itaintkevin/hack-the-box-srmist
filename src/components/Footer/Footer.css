@@ -1,0 +1,104 @@
+.Footer{
+    background-image: url(/home/kev/Documents/Coding/Live-Projects/hack-the-box/src/components/Footer/background.svg);
+
+    width: 100%;
+    height: 20vh;
+}
+
+.Footer-Container {
+    width: 79%;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Footer-Logo-Title-Quote */
+.Footer-Logo-container {
+    width: 35%;
+    height: 100%;
+}
+.Logo {
+    display: flex;
+}
+.Title {
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+.Quote {
+    color: #A4B1CD;
+    margin-top: 10px;
+}
+/* Footer-Logo-Title-Quote */
+
+/* Footer-Explore-Links */
+.Footer-Links-Container {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 18px;
+    color: #A4B1CD;
+
+}
+.Links-container {
+    display: flex;
+}
+.Explore {
+    color: white;
+}
+.Home-Footer {
+    margin: 10px 10px 10px 0px;
+}
+.Team-Footer {
+    margin: 10px 10px 10px 10px;
+}
+.Events-Footer {
+    margin: 10px 10px 10px 10px;
+}
+.Contact-Footer {
+    margin: 10px 10px 10px 10px;
+}
+/* Footer-Explore-Links */
+
+/* Footer-Contacts */
+.Footer-Contacts-Container {
+    width: 25%;
+    height: 100%;
+    margin: 30px 20px 20px 20px;
+}
+.Contact-Title {
+      color: white;
+      font-size: 18px;
+}
+.Address {
+    margin-top: 3px;;
+}
+.Email {
+    margin-top: 3px;;
+}
+.Address-container {
+    display: flex;
+    color: #A4B1CD;
+    margin: 10px 10px 10px 10px;
+    font-size: 18px;
+}
+.Email-container {
+    display: flex;
+    color: #A4B1CD;
+    margin: 10px 10px 10px 10px;
+    font-size: 18px;
+}
+.Address-container img {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.Email-container img {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+/* Footer-Contacts */

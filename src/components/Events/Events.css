@@ -1,0 +1,71 @@
+.Events {
+    background-image: url(/home/kev/Documents/Coding/Live-Projects/hack-the-box/src/components/Events/background.svg);
+    display: flex;
+    flex-direction: row;
+}
+.Events-Left-Container {
+    width: 60%;
+}
+.Event-Title {
+    font-size: 60px;
+    text-align: center;
+    color: #9FEF00;
+    margin: 70px 0px 0px 0px; 
+}
+.Event-Content {
+    font-size: 25px;
+    padding: 10px 50px 10px 50px;
+}
+.Event-Description {
+    margin: 25px auto; 
+    color: white; 
+}
+.Event-Panel {
+    color: #9FEF00;
+    font-style: italic;
+}
+.Event-Prerequisites {
+    padding-bottom: 20px; 
+    font-style: italic;
+    color: #9FEF00;
+    font-size: 25px;
+}
+.Guest {
+    display: inline-block;
+    margin: 10px auto;
+    color: #A4B1CD;
+}
+.Guest span {
+    background-color: #9FEF00;
+    color: #141D2B;
+    width: 100px;
+    height: 30px;
+}
+
+
+.Events-Right-Container {
+    width: 40%;
+}
+.Poster {
+    width: 650px;
+    height: 650px;
+    margin: 20px 10px 20px 60px;
+}
+.Event-Details {
+    margin: 60px auto;
+    background-color: #A4B1CD;
+    color:#141D2B;
+    border-radius: 10px;
+    border: 2px solid #9FEF00;
+    padding: 20px 20px 20px 20px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+.Event-Details div {
+   border-right: 2px solid #141D2B; 
+   padding: 0px 20px;
+}
+.Event-Details div:last-child {
+    border: none;
+}

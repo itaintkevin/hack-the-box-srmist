@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94c71267.css",
+    "main.js": "/static/js/main.b89d42ba.js",
+    "static/media/Poster.jpg": "/static/media/Poster.7d5534b82eb9255d577b.jpg",
+    "static/media/Sudhanshu.jpg": "/static/media/Sudhanshu.cea499020742af89db05.jpg",
+    "static/media/Rajya.png": "/static/media/Rajya.e524febef1e78f25933e.png",
+    "static/media/Ratanshi.png": "/static/media/Ratanshi.727e2a52149e69494d46.png",
+    "static/media/Supraja.png": "/static/media/Supraja.15859ed05af1ccfc6522.png",
+    "static/media/Jerin.jpg": "/static/media/Jerin.2505a752db3dbded70ad.jpg",
+    "static/media/Aniruddha.jpg": "/static/media/Aniruddha.41a54fc2f2bdda1480ce.jpg",
+    "static/media/Vyshakh.jpg": "/static/media/Vyshakh.b51391fc25157a20c35c.jpg",
+    "static/media/Img-2.svg": "/static/media/Img-2.fbdef55f8f7a5e24d16a223a2ab60b6b.svg",
+    "static/media/Pragya.jpg": "/static/media/Pragya.55b3e6e60848f3483681.jpg",
+    "static/media/Img-1.svg": "/static/media/Img-1.96120de87fa41cbbf91b19bba8e5b505.svg",
+    "static/media/AniruddhaS.jpeg": "/static/media/AniruddhaS.692fd69ae4ef72ae0129.jpeg",
+    "static/media/Gita.jpeg": "/static/media/Gita.9dca23f85cea472e1421.jpeg",
+    "static/media/twitter.png": "/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/portfolio.png": "/static/media/portfolio.99404b11f699e221cdcc.png",
+    "static/media/meetup.svg": "/static/media/meetup.c0ffc61f001218e7eb431ff61f291ce8.svg",
+    "static/media/discord.svg": "/static/media/discord.bf003d3f3fc736657c849cf91315d2c7.svg",
+    "static/media/background.svg": "/static/media/background.044410fdcbeee619e51d.svg",
+    "static/media/mailbox.svg": "/static/media/mailbox.f2657f7d7a8e6c1fa8ee016da3e93c1d.svg",
+    "static/media/college.svg": "/static/media/college.a4a3da356a8b490fc273197ee470b9bd.svg",
+    "index.html": "/index.html",
+    "static/media/icon.svg": "/static/media/icon.0160f865428fd165583c1d8d4372f76d.svg",
+    "main.94c71267.css.map": "/static/css/main.94c71267.css.map",
+    "main.b89d42ba.js.map": "/static/js/main.b89d42ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c71267.css",
+    "static/js/main.b89d42ba.js"
+  ]
+}
