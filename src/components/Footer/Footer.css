@@ -1,5 +1,5 @@
 .Footer{
-    background-image: url(/home/kev/Documents/Coding/Completed-Projects/hack-the-box/src/components/Footer/background.svg);
+    background-image: url("background.svg");
 
     width: 100%;
     height: 20vh;
